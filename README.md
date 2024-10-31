@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Perl language learning.
 - 💬 Ask me about Github.
 - 📫 How to reach me: Zhejiang University.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
